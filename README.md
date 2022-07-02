@@ -1,4 +1,7 @@
 ## Beminimalist clone
+
+![image](https://user-images.githubusercontent.com/95302680/177006301-2461480e-880e-4464-8fd3-f33a287878aa.png)
+
 <hr>
 We were a team of 6 members from the Masai web-16 batch who worked on cloning the Beminimalist.com website as part of our unit-3 construct week. As a team we were given project to clone the biminimalist.com. Our project demonstrate a basic flow of an e-commerce page were a customer can sign-Up , login , veiw and filter products , add products to cart and place his/her happy order. 
 <br><br>
