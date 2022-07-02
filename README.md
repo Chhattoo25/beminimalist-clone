@@ -2,7 +2,7 @@
 <hr>
 We were a team of 6 members from the Masai web-16 batch who worked on cloning the Beminimalist.com website as part of our unit-3 construct week. As a team we were given project to clone the biminimalist.com. Our project demonstrate a basic flow of an e-commerce page were a customer can sign-Up , login , veiw and filter products , add products to cart and place his/her happy order. 
 <br><br>
-Biminimalist  provides beauty care products across the glob and the company main objectives is to provide a transparency of products.
+Beminimalist  provides beauty care products across the glob and the company main objectives is to provide a transparency of products.
 
 -If you want to visit our project then just click on the link given below:
 [Project Netlify link](https://be-minimalist-clone-eb6e54.netlify.app/)
